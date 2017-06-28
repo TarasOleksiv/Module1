@@ -5,6 +5,6 @@ package Main;
  */
 public class Summer2017 {
     public static void main(String[] args){
-        System.out.println("Сподіваюсь, літо 2017 буде приємним.");
+        System.out.println("Сподіваюсь, літо 2017 буде приємним!!!");
     }
 }
